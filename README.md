@@ -1,2 +1,2 @@
 # GuitarSimulator
- Unity3D game of the genre Infinite Runner.
+ Unity3D game of the genre Guitar Simulator.
